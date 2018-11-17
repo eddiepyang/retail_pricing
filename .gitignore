@@ -4,3 +4,5 @@ TASKS.md
 *.zip
 *.tsv
 *.json
+
+/.ipynb_checkpoints
